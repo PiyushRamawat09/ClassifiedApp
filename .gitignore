@@ -61,8 +61,7 @@ buck-out/
 
 /src/Provider/configProvider.js
 
-/android/app/src/main/assets/index.android.bundle
-
+android/app/src/main/assets/index.android.bundle
 
 
 
