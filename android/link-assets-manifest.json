@@ -1,0 +1,73 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/LexendDeca-Black.ttf",
+      "sha1": "1d8f0b35298448e00adf67e6fa8e3579be805aed"
+    },
+    {
+      "path": "assets/fonts/LexendDeca-Bold.ttf",
+      "sha1": "7ee129b4ba6b0eafef748040d48b7979429f149e"
+    },
+    {
+      "path": "assets/fonts/LexendDeca-ExtraBold.ttf",
+      "sha1": "1eddf6fc791679309a67a352a4ef108e9aef028d"
+    },
+    {
+      "path": "assets/fonts/LexendDeca-ExtraLight.ttf",
+      "sha1": "fd306ac530940f910327b0a3265463528eaea240"
+    },
+    {
+      "path": "assets/fonts/LexendDeca-Light.ttf",
+      "sha1": "30d4f395b9d847fae9174f6ffed7749ea7bd6bfb"
+    },
+    {
+      "path": "assets/fonts/LexendDeca-Medium.ttf",
+      "sha1": "ab665bd77c6d32b4ddb555d2508fde44d384c822"
+    },
+    {
+      "path": "assets/fonts/LexendDeca-Regular.ttf",
+      "sha1": "68dad5183767d1ebf077be1ddb622a7586f28384"
+    },
+    {
+      "path": "assets/fonts/LexendDeca-SemiBold.ttf",
+      "sha1": "f79ea2615b597db5e10776fb1889b783283aeffc"
+    },
+    {
+      "path": "assets/fonts/LexendDeca-Thin.ttf",
+      "sha1": "509a4023903b0f0333ed5cdbc6dd74b60f27101f"
+    },
+    {
+      "path": "assets/fonts/Manrope-Bold.ttf",
+      "sha1": "a6b63c832d12337efb3123f47863f54472c81bf5"
+    },
+    {
+      "path": "assets/fonts/Manrope-ExtraBold.ttf",
+      "sha1": "01e9f1ed4df60771240fd42f5ac9dcaf398f110b"
+    },
+    {
+      "path": "assets/fonts/Manrope-ExtraLight.ttf",
+      "sha1": "03f11f0309f7f955fe90e3fdf22fee5e60bada4e"
+    },
+    {
+      "path": "assets/fonts/Manrope-Light.ttf",
+      "sha1": "67a7446c44660168ed179812753b03390858aa92"
+    },
+    {
+      "path": "assets/fonts/Manrope-Medium.ttf",
+      "sha1": "d62e1b2498f65ea5bc20fc5e365d19239527b419"
+    },
+    {
+      "path": "assets/fonts/Manrope-Regular.ttf",
+      "sha1": "036b14064c7b90b4b200f2730981effea5e58b15"
+    },
+    {
+      "path": "assets/fonts/Manrope-SemiBold.ttf",
+      "sha1": "e423e112f4832916b05308934c10aa84fd14c607"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "8414f6d5e907adb8e95e5a737a0a6fc98a134ddb"
+    }
+  ]
+}

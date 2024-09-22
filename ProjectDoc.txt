@@ -1,0 +1,1 @@
+1) Font dynamic according to arabic and other language 
